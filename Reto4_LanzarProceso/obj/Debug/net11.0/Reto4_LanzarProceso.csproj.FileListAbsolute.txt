@@ -1,0 +1,17 @@
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto4_LanzarProceso\bin\Debug\net11.0\Reto4_LanzarProceso.exe
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto4_LanzarProceso\bin\Debug\net11.0\Reto4_LanzarProceso.deps.json
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto4_LanzarProceso\bin\Debug\net11.0\Reto4_LanzarProceso.runtimeconfig.json
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto4_LanzarProceso\bin\Debug\net11.0\Reto4_LanzarProceso.runtimeconfig.dev.json
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto4_LanzarProceso\bin\Debug\net11.0\Reto4_LanzarProceso.dll
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto4_LanzarProceso\bin\Debug\net11.0\Reto4_LanzarProceso.pdb
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto4_LanzarProceso\obj\Debug\net11.0\Reto4_LanzarProceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto4_LanzarProceso\obj\Debug\net11.0\Reto4_LanzarProceso.AssemblyInfoInputs.cache
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto4_LanzarProceso\obj\Debug\net11.0\Reto4_LanzarProceso.AssemblyInfo.cs
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto4_LanzarProceso\obj\Debug\net11.0\Reto4_LanzarProceso.csproj.CoreCompileInputs.cache
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto4_LanzarProceso\obj\Debug\net11.0\Reto4_LanzarProceso.sourcelink.json
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto4_LanzarProceso\obj\Debug\net11.0\Reto4_LanzarProceso.dll
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto4_LanzarProceso\obj\Debug\net11.0\refint\Reto4_LanzarProceso.dll
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto4_LanzarProceso\obj\Debug\net11.0\Reto4_LanzarProceso.pdb
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto4_LanzarProceso\obj\Debug\net11.0\Reto4_LanzarProceso.genruntimeconfig.cache
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto4_LanzarProceso\obj\Debug\net11.0\ref\Reto4_LanzarProceso.dll
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto4_LanzarProceso\obj\Debug\net11.0\Reto4_La.41AEDBBF.Up2Date
