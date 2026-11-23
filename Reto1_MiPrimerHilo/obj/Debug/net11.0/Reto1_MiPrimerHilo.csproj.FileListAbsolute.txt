@@ -1,0 +1,5 @@
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto1_MiPrimerHilo\obj\Debug\net11.0\Reto1_MiPrimerHilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto1_MiPrimerHilo\obj\Debug\net11.0\Reto1_MiPrimerHilo.AssemblyInfoInputs.cache
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto1_MiPrimerHilo\obj\Debug\net11.0\Reto1_MiPrimerHilo.AssemblyInfo.cs
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto1_MiPrimerHilo\obj\Debug\net11.0\Reto1_MiPrimerHilo.csproj.CoreCompileInputs.cache
+C:\Users\sergiterrones021\Documents\GitHub\Introduccion-de-hilos-y-processos\Reto1_MiPrimerHilo\obj\Debug\net11.0\Reto1_MiPrimerHilo.sourcelink.json
